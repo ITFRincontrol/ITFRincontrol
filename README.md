@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding websites
 - 🌱 I’m currently learning beginner javascript
 - 💞️ I’m looking to collaborate on google meet
-- 📫 How to reach me email me my gmail:aljanabihusam2Gmail.com
+- 📫 How to reach me email me my gmail:aljanabihusam2@Gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im 11
 
